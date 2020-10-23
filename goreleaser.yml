@@ -1,0 +1,8 @@
+builds:
+    - main: ./cmd/kubepf/kubepf.go
+      id: "kubepf"
+      binary: kubepf
+      goos:
+        - linux
+        - darwin
+        - windows
