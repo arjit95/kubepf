@@ -25,12 +25,12 @@
 ## About The Project
 ![kubepf screenshot](_images/screenshot.svg)
 
-Port forwarding in kubernetes using kubectl can be a bit difficult if the user wants to port forward multiple resources, where he needs to switch between multiple terminals or write scripts which allows you to run multiple resources on a single terminal. This could be made easier using an interactive prompt, where the user can run multiple prompts from the same terminal.
+Port forwarding in kubernetes using kubectl can be a bit difficult if the user wants to port forward multiple resources, where he needs to switch between multiple terminals or write scripts which allows you to run multiple resources on a single terminal. This could be made easier using an interactive prompt, where the user can run port-forwarding for multiple resources from the same terminal easily.
 
 ## Install
 
 ### Pre-compiled binary
-Get the latest release [here](https://github.com/arjit95/kubepf/releases) page.
+Get the latest release [here](https://github.com/arjit95/kubepf/releases).
 
 ### Compile from source
 __Clone__:
